@@ -1,0 +1,46 @@
+{
+  "title": "Boletos de Entrada",
+  "titleColor": "#187bcd",
+  "backgroundImage": "url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3-sfPKWdd0OFc7XyZcHbnJJfy68n1pJb.png')",
+  "ticketTypes": [
+    {
+      "title": "Entrada General",
+      "titleColor": "text-blue-900",
+      "description": "Acceso completo a todas las actividades",
+      "price": "$200 MXN",
+      "priceColor": "text-green-500",
+      "borderColor": "border-blue-900/20",
+      "features": [
+        "Acceso a todos los conciertos",
+        "Participación en torneos",
+        "Acceso a kermés",
+        "Actividades espirituales",
+        "Incluye juegos de kermés y más sorpresas"
+      ]
+    },
+    {
+      "title": "Menores de 11 años",
+      "titleColor": "text-green-500",
+      "description": "¡Los niños entran gratis!",
+      "price": "GRATIS",
+      "priceColor": "text-green-500",
+      "borderColor": "border-green-500/20",
+      "features": [
+        "Entrada gratuita para menores de 11",
+        "Actividades especiales para niños",
+        "Área de juegos segura",
+        "Acompañante adulto requerido",
+        "Invitados especiales para los niños"
+      ]
+    }
+  ],
+  "purchaseSection": {
+    "title": "Comprar Entradas",
+    "description": "Pago seguro con Mercado Pago",
+    "integrationTitle": "Integración de Mercado Pago",
+    "integrationDescription": "Aquí se integrará el Payment Brick de Mercado Pago usando el SDK @mercadopago/sdk-react",
+    "buttonText": "Comprar Entradas Ahora",
+    "paymentMethods": "Métodos de pago: Tarjetas de crédito/débito, OXXO, transferencias bancarias",
+    "configExample": "preferenceId: \"tu-preference-id-aqui\""
+  }
+}

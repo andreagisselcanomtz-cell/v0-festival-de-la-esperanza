@@ -1,0 +1,122 @@
+{
+  "title": "Actividades del Festival",
+  "titleColor": "#ffd336",
+  "backgroundImage": "url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2-cWpF5aRUQatvlCkHl2Oi4f8qrWH0LF.png')",
+  "sections": {
+    "musicGroups": {
+      "title": "Grupos Musicales Católicos",
+      "icon": "Music",
+      "groups": [
+        {
+          "nombre": "Coro Esperanza",
+          "descripcion": "Música litúrgica contemporánea que eleva el espíritu",
+          "horario": "11:00 AM - 12:00 PM",
+          "imagen": "/catholic-choir-singing.jpg"
+        },
+        {
+          "nombre": "Banda Joven Fe",
+          "descripcion": "Rock cristiano para todas las edades",
+          "horario": "2:00 PM - 3:00 PM",
+          "imagen": "/young-christian-band.jpg"
+        },
+        {
+          "nombre": "Mariachi Guadalupe",
+          "descripcion": "Música tradicional mexicana con mensaje de fe",
+          "horario": "6:00 PM - 7:00 PM",
+          "imagen": "/mariachi-band-performing.jpg"
+        },
+        {
+          "nombre": "Grupo Renacer",
+          "descripcion": "Alabanzas contemporáneas llenas de esperanza",
+          "horario": "1:00 PM - 2:00 PM",
+          "imagen": "/contemporary-christian-worship-band.jpg"
+        },
+        {
+          "nombre": "Coro Infantil Luz",
+          "descripcion": "Voces angelicales de nuestros niños",
+          "horario": "12:30 PM - 1:00 PM",
+          "imagen": "/children-choir-singing.jpg"
+        }
+      ]
+    },
+    "sportsTournaments": {
+      "title": "Torneos Deportivos",
+      "icon": "Trophy",
+      "tournaments": [
+        {
+          "deporte": "Fut 7 varonil",
+          "descripcion": "Torneo de fútbol 7 categoría varonil",
+          "horario": "10:00 AM - 4:00 PM",
+          "inscripcion": "Inscripción gratuita en el lugar"
+        },
+        {
+          "deporte": "Voleibol femenil",
+          "descripcion": "Competencia de voleibol categoría femenil",
+          "horario": "12:00 PM - 6:00 PM",
+          "inscripcion": "Equipos femeniles bienvenidos"
+        }
+      ]
+    },
+    "kermes": {
+      "title": "Kermés",
+      "icon": "Users",
+      "cardTitle": "Kermés Familiar",
+      "cardDescription": "Juegos tradicionales, rifas y diversión para toda la familia",
+      "activities": [
+        "Lotería tradicional",
+        "Juegos mecánicos",
+        "Puestos de comida",
+        "Rifas benéficas"
+      ],
+      "schedule": "Todo el día: 10:00 AM - 10:00 PM"
+    },
+    "grillTournament": {
+      "title": "Torneo de Parrilleros",
+      "icon": "Utensils",
+      "cardTitle": "Parrilleros de la Esperanza",
+      "cardDescription": "Competencia culinaria con los mejores asadores de la comunidad",
+      "details": [
+        "Inscripción: $50 por equipo",
+        "Premios en efectivo",
+        "Degustación gratuita",
+        "Jurado especializado"
+      ],
+      "schedule": "4:00 PM - 8:00 PM",
+      "buttonText": "Inscribir Equipo"
+    },
+    "jubileeElements": {
+      "title": "Elementos del Año Jubilar",
+      "icon": "Star",
+      "activities": [
+        {
+          "titulo": "Misa",
+          "descripcion": "Misa solemne de apertura del festival",
+          "horario": "10:30 AM",
+          "icono": "Church",
+          "imagen": "/catholic-mass-celebration.jpg"
+        },
+        {
+          "titulo": "Adoración Eucarística",
+          "descripcion": "Momento de oración y contemplación",
+          "horario": "3:00 PM",
+          "icono": "Heart",
+          "imagen": "/eucharistic-adoration.jpg"
+        },
+        {
+          "titulo": "Actividades para Niños",
+          "descripcion": "Catequesis lúdica y juegos espirituales",
+          "horario": "2:00 PM",
+          "icono": "Baby",
+          "imagen": "/children-religious-activities.jpg"
+        },
+        {
+          "titulo": "Confesiones",
+          "descripcion": "Sacramento de la reconciliación disponible",
+          "horario": "Todo el día",
+          "icono": "Star",
+          "imagen": "/confession-booth-catholic.jpg"
+        }
+      ]
+    }
+  }
+}

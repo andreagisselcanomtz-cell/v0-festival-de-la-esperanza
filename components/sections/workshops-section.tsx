@@ -1,14 +1,15 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Clock, MapPin, BookOpen } from "lucide-react"
+import workshopsData from "@/data/workshops-section.json"
 
 export function WorkshopsSection() {
+  const { title, titleColor, backgroundImage, workshops, buttonText, buttonStyle } = workshopsData
   return (
     <section
       className="py-16 px-4"
       style={{
-        backgroundImage:
-          "url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3-sfPKWdd0OFc7XyZcHbnJJfy68n1pJb.png')",
+        backgroundImage,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
@@ -16,29 +17,12 @@ export function WorkshopsSection() {
       <div className="container mx-auto">
         <h2
           className="text-6xl md:text-7xl font-bold text-center mb-12"
-          style={{ color: "#004eb4" }}
+          style={{ color: titleColor }}
         >
-          Talleres
+          {title}
         </h2>
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-          {[
-            {
-              nombre: "Taller de Oración Familiar",
-              facilitador: "Hna. Teresa López",
-              horario: "10:00 AM - 11:30 AM",
-              lugar: "Capilla San José",
-              descripcion: "Aprende técnicas de oración en familia y fortalece los lazos espirituales",
-              imagen: "/family-prayer-workshop.jpg",
-            },
-            {
-              nombre: "Taller de Música Litúrgica",
-              facilitador: "Mtro. Juan Carlos Vega",
-              horario: "3:00 PM - 4:30 PM",
-              lugar: "Sala de Música",
-              descripcion: "Descubre cómo la música puede elevar tu experiencia de fe",
-              imagen: "/liturgical-music-workshop.jpg",
-            },
-          ].map((taller, index) => (
+          {workshops.map((taller, index) => (
             <Card key={index} className="overflow-hidden shadow-lg bg-white/95 backdrop-blur-sm">
               <div className="h-40 bg-gray-200 flex items-center justify-center">
                 <div className="w-20 h-20 bg-yellow-400 rounded-full flex items-center justify-center">
@@ -63,9 +47,9 @@ export function WorkshopsSection() {
                   variant="outline"
                   size="sm"
                   className="w-full border-2 text-white hover:opacity-90 bg-transparent"
-                  style={{ backgroundColor: "#ffd336", borderColor: "#ffd336", color: "#004eb4" }}
+                  style={buttonStyle}
                 >
-                  Inscribirse al Taller
+                  {buttonText}
                 </Button>
               </CardContent>
             </Card>

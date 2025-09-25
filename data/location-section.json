@@ -1,0 +1,38 @@
+{
+  "title": "Lugar del Evento",
+  "titleColor": "#004eb4",
+  "backgroundImage": "url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1-7eEefVAb1HMgURExr97M7AXSvd2jiR.png')",
+  "venue": {
+    "name": "Instituto Mater",
+    "address": "San Pedro Garza García, Nuevo León"
+  },
+  "features": [
+    {
+      "icon": "MapPin",
+      "iconColor": "#2cbe6d",
+      "text": "Fácil acceso y amplio estacionamiento"
+    },
+    {
+      "icon": "Users",
+      "iconColor": "#2cbe6d",
+      "text": "Instalaciones familiares y seguras"
+    },
+    {
+      "icon": "Heart",
+      "iconColor": "#2cbe6d",
+      "text": "Ambiente acogedor para toda la familia"
+    }
+  ],
+  "map": {
+    "buttonText": "Ver en Google Maps",
+    "buttonUrl": "https://share.google/O4omxbjnmPB2DfsAF",
+    "buttonStyle": {
+      "backgroundColor": "#004eb4",
+      "textColor": "text-white"
+    },
+    "iframe": {
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.5!2d-100.4!3d25.65!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDM5JzAwLjAiTiAxMDDCsDI0JzAwLjAiVw!5e0!3m2!1sen!2smx!4v1234567890",
+      "title": "Instituto Mater Location"
+    }
+  }
+}
