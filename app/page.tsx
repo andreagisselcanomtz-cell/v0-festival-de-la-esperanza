@@ -128,7 +128,7 @@ export default function FestivalEsperanza() {
                   <div className="text-lg font-bold" style={{ color: "#004eb4" }}>
                     22 Noviembre
                   </div>
-                  <div className="text-sm" style={{ color: "#004eb4" }}>
+                  <div className="text-lg font-bold" style={{ color: "#004eb4" }}>
                     2025
                   </div>
                 </div>
@@ -143,7 +143,7 @@ export default function FestivalEsperanza() {
                   <div className="text-sm font-bold" style={{ color: "#2cbe6d" }}>
                     Instituto Mater
                   </div>
-                  <div className="text-xs" style={{ color: "#2cbe6d" }}>
+                  <div className="text-sm font-bold" style={{ color: "#2cbe6d" }}>
                     San Pedro Garza García
                   </div>
                 </div>
@@ -158,7 +158,7 @@ export default function FestivalEsperanza() {
                   <div className="text-sm font-bold" style={{ color: "#fd9903" }}>
                     8:00 AM
                   </div>
-                  <div className="text-xs" style={{ color: "#fd9903" }}>
+                  <div className="text-sm font-bold" style={{ color: "#fd9903" }}>
                     a 9:00 PM
                   </div>
                 </div>
@@ -173,7 +173,7 @@ export default function FestivalEsperanza() {
                   <div className="text-lg font-bold" style={{ color: "#8b5cf6" }}>
                     $200
                   </div>
-                  <div className="text-xs" style={{ color: "#8b5cf6" }}>
+                  <div className="text-lg font-bold" style={{ color: "#8b5cf6" }}>
                     Menores gratis
                   </div>
                 </div>
