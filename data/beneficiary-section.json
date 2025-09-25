@@ -1,0 +1,32 @@
+{
+  "title": "Evento a Beneficio de:",
+  "backgroundColor": "#004eb4",
+  "textColor": "text-white",
+  "organization": {
+    "name": "Superación Juvenil ABP",
+    "logo": "/superacion-juvenil-logo.png",
+    "logoAlt": "Superación Juvenil ABP Logo"
+  },
+  "sections": [
+    {
+      "title": "EXPERIENCIA EN EVENTOS",
+      "content": [
+        "Los eventos de alto impacto han sido elementales para ayudar a sostener económicamente a la asociación. Haciendo Eventos como: Conferencias, Cine con causa, Cenas de gala, Carreras, etc.",
+        "Durante 14 años fuimos los creadores y organizadores de la carrera Vivamus \"Por una sociedad con valores\". Teniendo entre 4,000 y 8,000 corredores por edición."
+      ]
+    },
+    {
+      "title": "EVENTO CON CAUSA",
+      "content": [
+        "El Festival de la Esperanza es un evento con causa, cuyo propósito principal es apoyar los esfuerzos de Superación Juvenil A.B.P.",
+        "Además, esta iniciativa también busca beneficiar económicamente a otros movimientos que quieran participar como aliados del Festival."
+      ]
+    }
+  ],
+  "socialMedia": {
+    "instagram": {
+      "url": "https://instagram.com/festivaldelaesperanzamty",
+      "handle": "@festivaldelaesperanzamty"
+    }
+  }
+}
