@@ -51,7 +51,7 @@ export default function FestivalEsperanza() {
   }, [festivalDate])
 
   return (
-    <div className="min-h-screen" style={{ backgroundColor: "#ffffff", fontFamily: "Macabro Danger, sans-serif" }}>
+    <div className="min-h-screen" style={{ backgroundColor: "#ffffff" }}>
       <header className="bg-white shadow-sm border-b-2" style={{ borderColor: "#fd9903" }}>
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center">
@@ -212,7 +212,6 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto relative z-10">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12 text-white"
-            style={{ fontFamily: "Macabro Danger, sans-serif" }}
           >
             ¿QUÉ ES?
           </h2>
@@ -284,7 +283,7 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12"
-            style={{ color: "#ffd336", fontFamily: "Macabro Danger, sans-serif" }}
+            style={{ color: "#ffd336" }}
           >
             Actividades del Festival
           </h2>
@@ -292,7 +291,6 @@ export default function FestivalEsperanza() {
           <div className="mb-16">
             <h3
               className="text-4xl md:text-5xl font-bold mb-8 flex items-center gap-2 text-white"
-              style={{ fontFamily: "Macabro Danger, sans-serif" }}
             >
               <Music className="w-8 h-8" />
               Grupos Musicales Católicos
@@ -358,7 +356,6 @@ export default function FestivalEsperanza() {
           <div className="mb-16">
             <h3
               className="text-4xl md:text-5xl font-bold mb-8 flex items-center gap-2 text-white"
-              style={{ fontFamily: "Macabro Danger, sans-serif" }}
             >
               <Trophy className="w-8 h-8" />
               Torneos Deportivos
@@ -409,7 +406,6 @@ export default function FestivalEsperanza() {
           <div className="mb-16">
             <h3
               className="text-4xl md:text-5xl font-bold mb-8 flex items-center gap-2 text-white"
-              style={{ fontFamily: "Macabro Danger, sans-serif" }}
             >
               <Users className="w-8 h-8" />
               Kermés
@@ -439,7 +435,6 @@ export default function FestivalEsperanza() {
           <div className="mb-16">
             <h3
               className="text-4xl md:text-5xl font-bold mb-8 flex items-center gap-2 text-white"
-              style={{ fontFamily: "Macabro Danger, sans-serif" }}
             >
               <Utensils className="w-8 h-8" />
               Torneo de Parrilleros
@@ -477,7 +472,6 @@ export default function FestivalEsperanza() {
           <div className="mb-16">
             <h3
               className="text-4xl md:text-5xl font-bold mb-8 flex items-center gap-2 text-white"
-              style={{ fontFamily: "Macabro Danger, sans-serif" }}
             >
               <Star className="w-8 h-8" />
               Elementos del Año Jubilar
@@ -552,7 +546,6 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12 text-white"
-            style={{ fontFamily: "Macabro Danger, sans-serif" }}
           >
             Charlas
           </h2>
@@ -618,7 +611,7 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12"
-            style={{ color: "#004eb4", fontFamily: "Macabro Danger, sans-serif" }}
+            style={{ color: "#004eb4" }}
           >
             Talleres
           </h2>
@@ -702,7 +695,7 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto max-w-4xl">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12"
-            style={{ color: "#187bcd", fontFamily: "Macabro Danger, sans-serif" }}
+            style={{ color: "#187bcd" }}
           >
             Boletos de Entrada
           </h2>
@@ -785,7 +778,7 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center gap-4 mb-6">
             <Heart className="w-8 h-8" />
-            <h2 className="text-3xl md:text-4xl font-bold" style={{ fontFamily: "Macabro Danger, sans-serif" }}>
+            <h2 className="text-3xl md:text-4xl font-bold">
               Evento a Beneficio de:
             </h2>
             <Heart className="w-8 h-8" />
@@ -859,7 +852,7 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12"
-            style={{ color: "#004eb4", fontFamily: "Macabro Danger, sans-serif" }}
+            style={{ color: "#004eb4" }}
           >
             Lugar del Evento
           </h2>
@@ -915,7 +908,7 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12"
-            style={{ color: "#004eb4", fontFamily: "Macabro Danger, sans-serif" }}
+            style={{ color: "#004eb4" }}
           >
             Mapa del Evento
           </h2>
@@ -940,7 +933,7 @@ export default function FestivalEsperanza() {
         <div className="container mx-auto">
           <h2
             className="text-6xl md:text-7xl font-bold text-center mb-12"
-            style={{ color: "#004eb4", fontFamily: "Macabro Danger, sans-serif" }}
+            style={{ color: "#004eb4" }}
           >
             Galería de Fotos
           </h2>
