@@ -48,7 +48,7 @@ export function TicketsSection() {
             <CardDescription>{purchaseSection.description}</CardDescription>
           </CardHeader>
           <CardContent className="space-y-6">
-            <div className="bg-muted/50 border-2 border-dashed border-primary/30 rounded-lg p-8 text-center">
+            {/*<div className="bg-muted/50 border-2 border-dashed border-primary/30 rounded-lg p-8 text-center">
               <div className="space-y-4">
                 <div className="w-16 h-16 mx-auto bg-primary/10 rounded-full flex items-center justify-center">
                   <Heart className="w-8 h-8 text-primary" />
@@ -62,9 +62,11 @@ export function TicketsSection() {
                   <div>{purchaseSection.configExample}</div>
                 </div>
               </div>
-            </div>
+            </div>*/}
 
-            <Button size="lg" className="w-full text-lg py-6">
+            <Button size="lg" className="w-full text-lg py-6"
+              onClick={() => window.open(purchaseSection.buttonUrl, "_blank")}
+              >
               {purchaseSection.buttonText}
             </Button>
 

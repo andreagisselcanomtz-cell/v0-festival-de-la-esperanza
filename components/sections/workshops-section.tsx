@@ -43,14 +43,17 @@ export function WorkshopsSection() {
                   <MapPin className="w-4 h-4 text-gray-500" />
                   {taller.lugar}
                 </div>
+                {taller.url &&
                 <Button
                   variant="outline"
                   size="sm"
                   className="w-full border-2 text-white hover:opacity-90 bg-transparent"
                   style={buttonStyle}
+                  onClick={() => window.open((taller as { url: string }).url, "_blank")}
                 >
                   {buttonText}
                 </Button>
+                }
               </CardContent>
             </Card>
           ))}

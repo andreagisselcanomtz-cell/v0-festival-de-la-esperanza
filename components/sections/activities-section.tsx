@@ -91,14 +91,15 @@ export function ActivitiesSection() {
                     {torneo.horario}
                   </div>
                   <p className="text-sm text-gray-600">{torneo.inscripcion}</p>
-                  <Button
+                  {torneo.url && <Button
+                    onClick={() => window.open(torneo.url, "_blank")}
                     variant="outline"
                     size="sm"
                     className="w-full border-2 text-white hover:opacity-90 bg-transparent"
                     style={{ backgroundColor: "#004eb4", borderColor: "#004eb4" }}
                   >
                     Inscribirse
-                  </Button>
+                  </Button>}
                 </CardContent>
               </Card>
             ))}
@@ -162,6 +163,7 @@ export function ActivitiesSection() {
                 size="sm"
                 className="w-full border-2 text-white hover:opacity-90 bg-transparent"
                 style={{ backgroundColor: "#004eb4", borderColor: "#004eb4" }}
+                onClick={() => window.open(sections.grillTournament.buttonUrl, "_blank")}
               >
                 {sections.grillTournament.buttonText}
               </Button>

@@ -36,11 +36,12 @@
   ],
   "purchaseSection": {
     "title": "Comprar Entradas",
-    "description": "Pago seguro con Mercado Pago",
-    "integrationTitle": "Integración de Mercado Pago",
-    "integrationDescription": "Aquí se integrará el Payment Brick de Mercado Pago usando el SDK @mercadopago/sdk-react",
+    "description": "Pago seguro con Paypal",
+    "integrationTitle": "Integración de Paypal",
+    "integrationDescription": "Aquí se integrará el Payment Brick de Paypal usando el SDK @paypal/sdk-react",
     "buttonText": "Comprar Entradas Ahora",
-    "paymentMethods": "Métodos de pago: Tarjetas de crédito/débito, OXXO, transferencias bancarias",
-    "configExample": "preferenceId: \"tu-preference-id-aqui\""
+    "paymentMethods": "Métodos de pago: Tarjetas de crédito/débito, Cuenta de Paypal",
+    "configExample": "preferenceId: \"tu-preference-id-aqui\"",
+    "buttonUrl": "https://www.paypal.com/ncp/payment/ACQCGZ2GFBAXL"
   }
 }
