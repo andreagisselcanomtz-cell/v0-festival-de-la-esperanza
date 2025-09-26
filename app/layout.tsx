@@ -12,9 +12,12 @@ const luckiestGuy = Luckiest_Guy({
 })
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Festival de la Esperanza',
+  description: 'Festival de la Esperanza',
   generator: 'v0.app',
+  icons: {
+    icon: '/logo.ico',
+  },
 }
 
 export default function RootLayout({

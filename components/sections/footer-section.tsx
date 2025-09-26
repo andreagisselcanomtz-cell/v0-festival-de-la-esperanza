@@ -10,7 +10,15 @@ export function FooterSection() {
               Festival de la Esperanza
             </h3>
             <p className="text-gray-300">
-              Celebrando la fe, la familia y la comunidad en un ambiente de alegría y esperanza.
+              Celebrando la fe, la familia y la comunidad en un ambiente de alegría y esperanza, a favor de {' '}
+            <a
+              href="https://superacionjuvenil.org"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-white transition-colors"
+            >
+              Superación Juvenil A.B.P.
+            </a>
             </p>
           </div>
 
@@ -19,18 +27,14 @@ export function FooterSection() {
               Redes Sociales
             </h4>
             <div className="space-y-2">
-              <a href="#" className="block text-gray-300 hover:text-white transition-colors">
-                Facebook: @FestivalEsperanza
-              </a>
               <a
                 href="https://instagram.com/festivaldelaesperanzamty"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-300 hover:text-white transition-colors"
               >
                 <Instagram className="w-4 h-4" />
                 @festivaldelaesperanzamty
-              </a>
-              <a href="#" className="block text-gray-300 hover:text-white transition-colors">
-                WhatsApp: +52 123 456 7890
               </a>
             </div>
           </div>

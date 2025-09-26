@@ -41,7 +41,17 @@ export function LocationSection() {
             <Button
               className="text-white hover:opacity-90"
               style={map.buttonStyle}
-              onClick={() => window.open(map.buttonUrl, "_blank")}
+              onClick={() => {
+                // Create link that searches for the specific place "Instituto Mater"
+                const placeName = `${venue.name}`;
+                const encodedPlace = encodeURIComponent(placeName);
+                const address = encodeURIComponent(venue.address);
+                
+                // Use Google Maps place search that will mark the specific location
+                const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodedPlace},${address}`;
+                
+                window.open(mapsUrl, '_blank');
+              }}
             >
               {map.buttonText}
             </Button>

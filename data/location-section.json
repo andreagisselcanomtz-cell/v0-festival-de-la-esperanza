@@ -25,14 +25,20 @@
   ],
   "map": {
     "buttonText": "Ver en Google Maps",
-    "buttonUrl": "https://share.google/O4omxbjnmPB2DfsAF",
+    "buttonUrl": "geo:25.641143177333785,-100.3653684874019;u=35",
     "buttonStyle": {
       "backgroundColor": "#004eb4",
       "textColor": "text-white"
     },
     "iframe": {
-      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.5!2d-100.4!3d25.65!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDM5JzAwLjAiTiAxMDDCsDI0JzAwLjAiVw!5e0!3m2!1sen!2smx!4v1234567890",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.9090719705305!2d-100.3653684874019!3d25.641143177333785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662bdcb7d7a7f59%3A0x28ab69a3e0db4f17!2sInstituto%20Mater!5e0!3m2!1ses-419!2smx!4v1758914876467!5m2!1ses-419!2smx",
       "title": "Instituto Mater Location"
-    }
+    },
+    "latitude": 25.641143177333785,
+    "longitude": -100.3653684874019
+  },
+  "location": {
+    "latitude": 25.641143177333785,
+    "longitude": -100.3653684874019
   }
 }

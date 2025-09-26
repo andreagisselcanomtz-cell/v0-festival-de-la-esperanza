@@ -9,7 +9,8 @@
       "horario": "10:00 AM - 11:30 AM",
       "lugar": "Capilla San José",
       "descripcion": "Aprende técnicas de oración en familia y fortalece los lazos espirituales",
-      "imagen": "/family-prayer-workshop.jpg"
+      "imagen": "/family-prayer-workshop.jpg",
+      "url": null
     },
     {
       "nombre": "Taller de Música Litúrgica",
