@@ -26,14 +26,14 @@
       "transformClass": "transform rotate-3"
     },
     {
-      "src": "/galeria/grill.jpg",
+      "src": "/galeria/grill.jpeg",
       "alt": "Mariachi actuando",
       "gridClass": "col-span-2 row-span-2",
       "shadowClass": "shadow-sm",
       "transformClass": "transform -rotate-1"
     },
     {
-      "src": "/galeria/grilljurado.jpg",
+      "src": "/galeria/grilljurado.jpeg",
       "alt": "Banda de adoración contemporánea",
       "gridClass": "col-span-4 row-span-2",
       "shadowClass": "shadow-md",
@@ -47,21 +47,21 @@
       "transformClass": "transform -rotate-2"
     },
     {
-      "src": "/galeria/nortefut.jpg",
+      "src": "/galeria/nortefut.jpeg",
       "alt": "Ensamble de música sacra",
       "gridClass": "col-span-3 row-span-2",
       "shadowClass": "shadow-md",
       "transformClass": "transform rotate-2"
     },
     {
-      "src": "/galeria/voleibolniñas.jpg",
+      "src": "/galeria/voleibolniñas.jpeg",
       "alt": "Banda pop cristiana juvenil",
       "gridClass": "col-span-2 row-span-3",
       "shadowClass": "shadow-sm",
       "transformClass": "transform -rotate-3"
     },
     {
-      "src": "/galeria/tec.jpg",
+      "src": "/galeria/tec.jpeg",
       "alt": "Grupo musical familiar",
       "gridClass": "col-span-4 row-span-2",
       "shadowClass": "shadow-md",
