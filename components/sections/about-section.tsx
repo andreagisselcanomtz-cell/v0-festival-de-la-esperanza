@@ -36,20 +36,15 @@ export function AboutSection() {
                 </p>
               </div>
               <div className="flex justify-center">
-                <div className="w-80 h-80 rounded-xl overflow-hidden border-4 border-orange-400 shadow-lg bg-gray-100 flex items-center justify-center">
-                  <div className="text-center p-6">
-                    <div className="w-16 h-16 mx-auto mb-4 bg-orange-400 rounded-full flex items-center justify-center">
-                      <svg className="w-8 h-8 text-white" fill="currentColor" viewBox="0 0 20 20">
-                        <path
-                          fillRule="evenodd"
-                          d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z"
-                          clipRule="evenodd"
-                        />
-                      </svg>
-                    </div>
-                    <p className="text-gray-600 font-semibold">Video del Festival</p>
-                    <p className="text-sm text-gray-500 mt-2">Próximamente disponible</p>
-                  </div>
+                <div className="w-64 h-[27rem] rounded-xl overflow-hidden border-4 border-orange-400 shadow-lg bg-black">
+                  <video
+                    className="w-full h-full object-contain"
+                    controls
+                    preload="metadata"
+                  >
+                    <source src="/videos/ComingSoon.mp4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                  </video>
                 </div>
               </div>
             </div>
