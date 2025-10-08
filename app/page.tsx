@@ -53,9 +53,9 @@ export default function FestivalEsperanza() {
 
       <ActivitiesSection />
 
-      <TalksSection />
+      {/*<TalksSection />*/}  
 
-      <WorkshopsSection />
+      {/*<WorkshopsSection />*/}
 
       <div className="relative">
         <SectionDivider variant="wave" />
@@ -97,7 +97,7 @@ export default function FestivalEsperanza() {
         <SectionDivider variant="diagonal" />
       </div>
 
-      <EventMapSection />
+      {/* <EventMapSection /> */}
 
       <GallerySection />
 
