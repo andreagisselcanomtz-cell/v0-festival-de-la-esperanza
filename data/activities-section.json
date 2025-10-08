@@ -8,33 +8,33 @@
       "icon": "Music",
       "groups": [
         {
-          "nombre": "Coro Esperanza",
-          "descripcion": "Música litúrgica contemporánea que eleva el espíritu",
-          "horario": "11:00 AM - 12:00 PM",
+          "nombre": "JuanMa Ayala",
+          "descripcion": "Su misión es dar testimonio mediante la música",
+          "horario": "pendiente",
           "imagen": "/catholic-choir-singing.jpg"
         },
         {
-          "nombre": "Banda Joven Fe",
-          "descripcion": "Rock cristiano para todas las edades",
-          "horario": "2:00 PM - 3:00 PM",
+          "nombre": "schoenstatt Música",
+          "descripcion": "Alabanzas a Cristo",
+          "horario": "pendiente",
           "imagen": "/young-christian-band.jpg"
         },
         {
-          "nombre": "Mariachi Guadalupe",
-          "descripcion": "Música tradicional mexicana con mensaje de fe",
-          "horario": "6:00 PM - 7:00 PM",
-          "imagen": "/mariachi-band-performing.jpg"
+          "nombre": "Grupo por Confirmar",
+          "descripcion": "Alabanza a Dios",
+          "horario": "pendiente",
+          "imagen": "/misterio.jpg"
         },
         {
-          "nombre": "Grupo Renacer",
-          "descripcion": "Alabanzas contemporáneas llenas de esperanza",
-          "horario": "1:00 PM - 2:00 PM",
+          "nombre": "Grupo por Confirmar",
+          "descripcion": "Alabanza a Dios",
+          "horario": "pendiente",
           "imagen": "/contemporary-christian-worship-band.jpg"
         },
         {
-          "nombre": "Coro Infantil Luz",
-          "descripcion": "Voces angelicales de nuestros niños",
-          "horario": "12:30 PM - 1:00 PM",
+          "nombre": "Grupo por Confirmar",
+          "descripcion": "Alabanza a Dios",
+          "horario": "pendiente",
           "imagen": "/children-choir-singing.jpg"
         }
       ]
@@ -54,7 +54,8 @@
           "deporte": "Voleibol femenil",
           "descripcion": "Competencia de voleibol categoría femenil",
           "horario": "12:00 PM - 6:00 PM",
-          "inscripcion": "Equipos femeniles bienvenidos"
+          "inscripcion": "Equipos femeniles bienvenidos",
+          "url": "https://forms.gle/cqnwgNTiStVJAa55A"
         }
       ]
     },
@@ -62,14 +63,14 @@
       "title": "Kermés",
       "icon": "Users",
       "cardTitle": "Kermés Familiar",
-      "cardDescription": "Juegos tradicionales, rifas y diversión para toda la familia",
+      "cardDescription": "Juegos tradicionales y diversión para toda la familia",
       "activities": [
         "Lotería tradicional",
-        "Juegos mecánicos",
+        "Juegos",
         "Puestos de comida",
-        "Rifas benéficas"
+        "Mercadito"
       ],
-      "schedule": "Todo el día: 10:00 AM - 10:00 PM"
+      "schedule": "Todo el día: 08:00 AM - 09:00 PM"
     },
     "grillTournament": {
       "title": "Torneo de Parrilleros",
@@ -77,9 +78,8 @@
       "cardTitle": "Parrilleros de la Esperanza",
       "cardDescription": "Competencia culinaria con los mejores asadores de la comunidad",
       "details": [
-        "Inscripción: $50 por equipo",
-        "Premios en efectivo",
-        "Degustación gratuita",
+        "Inscripción: $3,500 por equipo",
+        "Premios",
         "Jurado especializado"
       ],
       "schedule": "4:00 PM - 8:00 PM",
@@ -92,29 +92,29 @@
       "activities": [
         {
           "titulo": "Misa",
-          "descripcion": "Misa solemne de apertura del festival",
-          "horario": "10:30 AM",
+          "descripcion": "Misa solemne cómo cierre del festival",
+          "horario": "7:00 PM",
           "icono": "Church",
           "imagen": "/catholic-mass-celebration.jpg"
         },
         {
           "titulo": "Adoración Eucarística",
           "descripcion": "Momento de oración y contemplación",
-          "horario": "3:00 PM",
+          "horario": " A partir de las 10:00 AM",
           "icono": "Heart",
-          "imagen": "/eucharistic-adoration.jpg"
+          "imagen": "/adoracion copy.jpg"
         },
         {
           "titulo": "Actividades para Niños",
           "descripcion": "Catequesis lúdica y juegos espirituales",
-          "horario": "2:00 PM",
+          "horario": "A partir de las 10:00 AM",
           "icono": "Baby",
           "imagen": "/children-religious-activities.jpg"
         },
         {
           "titulo": "Confesiones",
           "descripcion": "Sacramento de la reconciliación disponible",
-          "horario": "Todo el día",
+          "horario": "Horarios por",
           "icono": "Star",
           "imagen": "/confession-booth-catholic.jpg"
         }

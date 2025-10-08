@@ -5,63 +5,63 @@
   "description": "Revive los mejores momentos de nuestras ediciones anteriores y únete a crear nuevos recuerdos",
   "images": [
     {
-      "src": "/festival-community-celebration-with-families-and-c.jpg",
+      "src": "/galeria/fotos-luces.jpg",
       "alt": "Celebración familiar del festival",
       "gridClass": "col-span-6 row-span-4",
       "shadowClass": "shadow-lg",
       "transformClass": "transform rotate-1"
     },
     {
-      "src": "/catholic-choir-singing.jpg",
+      "src": "/galeria/adoracion.jpg",
       "alt": "Coro católico cantando",
       "gridClass": "col-span-3 row-span-3",
       "shadowClass": "shadow-md",
       "transformClass": "transform -rotate-2"
     },
     {
-      "src": "/young-christian-band.jpg",
+      "src": "/galeria/concierto.jpg",
       "alt": "Banda cristiana joven",
       "gridClass": "col-span-3 row-span-2",
       "shadowClass": "shadow-md",
       "transformClass": "transform rotate-3"
     },
     {
-      "src": "/mariachi-band-performing.jpg",
+      "src": "/galeria/grill.jpg",
       "alt": "Mariachi actuando",
       "gridClass": "col-span-2 row-span-2",
       "shadowClass": "shadow-sm",
       "transformClass": "transform -rotate-1"
     },
     {
-      "src": "/contemporary-christian-worship-band.jpg",
+      "src": "/galeria/grilljurado.jpg",
       "alt": "Banda de adoración contemporánea",
       "gridClass": "col-span-4 row-span-2",
       "shadowClass": "shadow-md",
       "transformClass": "transform rotate-1"
     },
     {
-      "src": "/children-choir-singing.jpg",
+      "src": "/galeria/kermes.jpg",
       "alt": "Coro infantil",
       "gridClass": "col-span-3 row-span-3",
       "shadowClass": "shadow-lg",
       "transformClass": "transform -rotate-2"
     },
     {
-      "src": "/classical-sacred-music-ensemble.jpg",
+      "src": "/galeria/nortefut.jpg",
       "alt": "Ensamble de música sacra",
       "gridClass": "col-span-3 row-span-2",
       "shadowClass": "shadow-md",
       "transformClass": "transform rotate-2"
     },
     {
-      "src": "/youth-christian-pop-band.jpg",
+      "src": "/galeria/voleibolniñas.jpg",
       "alt": "Banda pop cristiana juvenil",
       "gridClass": "col-span-2 row-span-3",
       "shadowClass": "shadow-sm",
       "transformClass": "transform -rotate-3"
     },
     {
-      "src": "/family-christian-music-group.jpg",
+      "src": "/galeria/tec.jpg",
       "alt": "Grupo musical familiar",
       "gridClass": "col-span-4 row-span-2",
       "shadowClass": "shadow-md",
