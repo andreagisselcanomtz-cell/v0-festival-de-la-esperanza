@@ -5,14 +5,14 @@
   "description": "Revive los mejores momentos de nuestras ediciones anteriores y únete a crear nuevos recuerdos",
   "images": [
     {
-      "src": "/galeria/fotos-luces.jpg",
+      "src": "/galeria/fotos-luces.JPG",
       "alt": "Celebración familiar del festival",
       "gridClass": "col-span-6 row-span-4",
       "shadowClass": "shadow-lg",
       "transformClass": "transform rotate-1"
     },
     {
-      "src": "/galeria/adoracion.jpg",
+      "src": "/galeria/adoracion.JPG",
       "alt": "Coro católico cantando",
       "gridClass": "col-span-3 row-span-3",
       "shadowClass": "shadow-md",
@@ -40,7 +40,7 @@
       "transformClass": "transform rotate-1"
     },
     {
-      "src": "/galeria/kermes.jpg",
+      "src": "/galeria/kermes.JPG",
       "alt": "Coro infantil",
       "gridClass": "col-span-3 row-span-3",
       "shadowClass": "shadow-lg",
