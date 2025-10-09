@@ -11,13 +11,13 @@
           "nombre": "JuanMa Ayala",
           "descripcion": "Su misión es dar testimonio mediante la música",
           "horario": "pendiente",
-          "imagen": "/catholic-choir-singing.jpg"
+          "imagen": "/JuanMa.jpeg"
         },
         {
-          "nombre": "schoenstatt Música",
+          "nombre": "Schoenstatt Música",
           "descripcion": "Alabanzas a Cristo",
           "horario": "pendiente",
-          "imagen": "/young-christian-band.jpg"
+          "imagen": "/Schoenstatt_Logo.svg.png"
         },
         {
           "nombre": "Grupo por Confirmar",
@@ -29,13 +29,13 @@
           "nombre": "Grupo por Confirmar",
           "descripcion": "Alabanza a Dios",
           "horario": "pendiente",
-          "imagen": "/contemporary-christian-worship-band.jpg"
+          "imagen": "/misterio.jpg"
         },
         {
           "nombre": "Grupo por Confirmar",
           "descripcion": "Alabanza a Dios",
           "horario": "pendiente",
-          "imagen": "/children-choir-singing.jpg"
+          "imagen": "/misterio.jpg"
         }
       ]
     },
@@ -95,7 +95,7 @@
           "descripcion": "Misa solemne cómo cierre del festival",
           "horario": "7:00 PM",
           "icono": "Church",
-          "imagen": "/catholic-mass-celebration.jpg"
+          "imagen": "/Misa.jpeg"
         },
         {
           "titulo": "Adoración Eucarística",
@@ -109,14 +109,14 @@
           "descripcion": "Catequesis lúdica y juegos espirituales",
           "horario": "A partir de las 10:00 AM",
           "icono": "Baby",
-          "imagen": "/children-religious-activities.jpg"
+          "imagen": "/campa.jpeg"
         },
         {
           "titulo": "Confesiones",
           "descripcion": "Sacramento de la reconciliación disponible",
           "horario": "Horarios por",
           "icono": "Star",
-          "imagen": "/confession-booth-catholic.jpg"
+          "imagen": "/confesiones.jpg"
         }
       ]
     }
