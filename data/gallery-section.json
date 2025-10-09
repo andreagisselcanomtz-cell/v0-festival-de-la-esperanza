@@ -19,7 +19,7 @@
       "transformClass": "transform -rotate-2"
     },
     {
-      "src": "/galeria/concierto.jpg",
+      "src": "/galeria/concierto.JPG",
       "alt": "Banda cristiana joven",
       "gridClass": "col-span-3 row-span-2",
       "shadowClass": "shadow-md",
