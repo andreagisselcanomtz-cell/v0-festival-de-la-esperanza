@@ -11,31 +11,13 @@
           "nombre": "JuanMa Ayala",
           "descripcion": "Su misión es dar testimonio mediante la música",
           "horario": "pendiente",
-          "imagen": "/JuanMa.jpeg"
+          "imagen": "/Juanma.jpeg"
         },
         {
           "nombre": "Schoenstatt Música",
           "descripcion": "Alabanzas a Cristo",
           "horario": "pendiente",
           "imagen": "/Schoenstatt_Logo.svg.png"
-        },
-        {
-          "nombre": "Grupo por Confirmar",
-          "descripcion": "Alabanza a Dios",
-          "horario": "pendiente",
-          "imagen": "/misterio.jpg"
-        },
-        {
-          "nombre": "Grupo por Confirmar",
-          "descripcion": "Alabanza a Dios",
-          "horario": "pendiente",
-          "imagen": "/misterio.jpg"
-        },
-        {
-          "nombre": "Grupo por Confirmar",
-          "descripcion": "Alabanza a Dios",
-          "horario": "pendiente",
-          "imagen": "/misterio.jpg"
         }
       ]
     },
@@ -103,7 +85,7 @@
           "descripcion": "Momento de oración y contemplación en compañia de Grupos Musicales Católicos",
           "horario": " A partir de las 10:00 AM",
           "icono": "Heart",
-          "imagen": "/adoracion copy.jpg"
+          "imagen": "/adoracion copy.JPG"
         },
         {
           "titulo": "Actividades para Niños",
