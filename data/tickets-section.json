@@ -11,11 +11,9 @@
       "priceColor": "text-green-500",
       "borderColor": "border-blue-900/20",
       "features": [
-        "Acceso a todos los conciertos",
-        "Participación en torneos",
+        "Entrada general al evento",
         "Acceso a kermés",
-        "Actividades espirituales",
-        "Incluye juegos de kermés y más sorpresas"
+        "Actividades espirituales"
       ]
     },
     {
@@ -26,11 +24,10 @@
       "priceColor": "text-green-500",
       "borderColor": "border-green-500/20",
       "features": [
-        "Entrada gratuita para menores de 11",
-        "Actividades especiales para niños",
+        
+        "Actividades para niños",
         "Área de juegos segura",
-        "Acompañante adulto requerido",
-        "Invitados especiales para los niños"
+        "Acompañante adulto requerido"
       ]
     }
   ],
