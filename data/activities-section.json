@@ -4,7 +4,7 @@
   "backgroundImage": "url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2-cWpF5aRUQatvlCkHl2Oi4f8qrWH0LF.png')",
   "sections": {
     "musicGroups": {
-      "title": "Grupos Musicales Católicos",
+      "title": "Adoración Eucarística en Compañia de",
       "icon": "Music",
       "groups": [
         {
@@ -45,15 +45,15 @@
       "tournaments": [
         {
           "deporte": "Fut 7 varonil",
-          "descripcion": "Torneo de fútbol 7 categoría varonil",
-          "horario": "10:00 AM - 4:00 PM",
+          "descripcion": "Torneo de fútbol 7 categoría varonil. Categorías: BENJAMÍN 6 a 7 años (2018 - 2019), INFANTIL 8 a 9 años (2016 - 2017), PRE JUVENIL 10 a 11 años (2014 - 2015), LIBRE Y JUVENIL 12 años en adelante (2013 y mayores), LEYENDAS 40 años en adelante (1985 y mayores)",
+          "horario": "Desde las 8:00 AM",
           "inscripcion": "Inscripción via forms",
           "url": "https://forms.gle/iypPHPCNRyZRxco46"
         },
         {
           "deporte": "Voleibol femenil",
           "descripcion": "Competencia de voleibol categoría femenil",
-          "horario": "12:00 PM - 6:00 PM",
+          "horario": "Desde las 8:00 AM",
           "inscripcion": "Equipos femeniles bienvenidos",
           "url": "https://forms.gle/cqnwgNTiStVJAa55A"
         }
@@ -65,12 +65,13 @@
       "cardTitle": "Kermés Familiar",
       "cardDescription": "Juegos tradicionales y diversión para toda la familia",
       "activities": [
-        "Lotería tradicional",
+        "*Lotería tradicional (costo extra)",
         "Juegos",
-        "Puestos de comida",
-        "Mercadito"
+        "Venta de Alimentos y Bebidas",
+        "Mercadito",
+        "Talleres Creativos (costo extra)"
       ],
-      "schedule": "Todo el día: 08:00 AM - 09:00 PM"
+      "schedule": "Todo el día: 08:00 AM - 08:00 PM"
     },
     "grillTournament": {
       "title": "Torneo de Parrilleros",
@@ -82,7 +83,7 @@
         "Premios",
         "Jurado especializado"
       ],
-      "schedule": "4:00 PM - 8:00 PM",
+      "schedule": "por confirmar",
       "buttonText": "Inscribir Equipo",
       "buttonUrl": "https://forms.gle/AT6YG37RZ3x6qxN56"
     },
@@ -92,29 +93,29 @@
       "activities": [
         {
           "titulo": "Misa",
-          "descripcion": "Misa solemne cómo cierre del festival",
+          "descripcion": "Misa de precepto",
           "horario": "7:00 PM",
           "icono": "Church",
           "imagen": "/Misa.jpeg"
         },
         {
           "titulo": "Adoración Eucarística",
-          "descripcion": "Momento de oración y contemplación",
+          "descripcion": "Momento de oración y contemplación en compañia de Grupos Musicales Católicos",
           "horario": " A partir de las 10:00 AM",
           "icono": "Heart",
           "imagen": "/adoracion copy.jpg"
         },
         {
           "titulo": "Actividades para Niños",
-          "descripcion": "Catequesis lúdica y juegos espirituales",
+          "descripcion": "Actividades y juegos espirituales",
           "horario": "A partir de las 10:00 AM",
           "icono": "Baby",
           "imagen": "/campa.jpeg"
         },
         {
           "titulo": "Confesiones",
-          "descripcion": "Sacramento de la reconciliación disponible",
-          "horario": "Horarios por",
+          "descripcion": "Sacramento de la reconciliación disponible en diferentes horarios",
+          "horario": "Horarios por confirmar",
           "icono": "Star",
           "imagen": "/confesiones.jpg"
         }

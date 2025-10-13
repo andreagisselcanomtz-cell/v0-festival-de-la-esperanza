@@ -31,8 +31,7 @@ export function AboutSection() {
                 </div>
                 <p className="text-lg text-gray-700 leading-relaxed">
                   El Festival de la Esperanza es un evento con causa, cuyo propósito principal es apoyar los esfuerzos
-                  de Superación Juvenil A.B.P. Además, esta iniciativa también busca beneficiar económicamente a otros
-                  movimientos que quieran participar como aliados del Festival.
+                  de Superación Juvenil A.B.P.
                 </p>
               </div>
               <div className="flex justify-center">
