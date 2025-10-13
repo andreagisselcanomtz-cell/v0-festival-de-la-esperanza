@@ -88,7 +88,7 @@ export function HeroSection({ festivalDate }: HeroSectionProps) {
                   $200
                 </div>
                 <div className="text-lg font-bold" style={{ color: "#8b5cf6" }}>
-                  Menores gratis
+              
                 </div>
               </div>
             </div>

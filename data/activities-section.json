@@ -26,8 +26,15 @@
       "icon": "Trophy",
       "tournaments": [
         {
-          "deporte": "Fut 7 varonil",
-          "descripcion": "Torneo de fútbol 7 categoría varonil. Categorías: BENJAMÍN 6 a 7 años (2018 - 2019), INFANTIL 8 a 9 años (2016 - 2017), PRE JUVENIL 10 a 11 años (2014 - 2015), LIBRE Y JUVENIL 12 años en adelante (2013 y mayores), LEYENDAS 40 años en adelante (1985 y mayores)",
+          "deporte": "Fut 7 Varonil",
+          "descripcion": "Torneo de fútbol 7 categoría varonil.Categorías:",
+          "categorias": [
+            "Benjamín 6 a 7 años (2018 - 2019)",
+            "Infantil 8 a 9 años (2016 - 2017)",
+            "Pre Juvenil 10 a 11 años (2014 - 2015)",
+            "Libre y Juvenil 12 años en adelante (2013 y mayores)",
+            "Leyendas 40 años en adelante (1985 y mayores)"
+          ],
           "horario": "Desde las 8:00 AM",
           "inscripcion": "Inscripción via forms",
           "url": "https://forms.gle/iypPHPCNRyZRxco46"
@@ -47,7 +54,7 @@
       "cardTitle": "Kermés Familiar",
       "cardDescription": "Juegos tradicionales y diversión para toda la familia",
       "activities": [
-        "*Lotería tradicional (costo extra)",
+        "Lotería tradicional (costo extra)",
         "Juegos",
         "Venta de Alimentos y Bebidas",
         "Mercadito",
