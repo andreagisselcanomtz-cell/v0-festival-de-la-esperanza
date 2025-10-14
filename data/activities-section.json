@@ -27,14 +27,7 @@
       "tournaments": [
         {
           "deporte": "Fut 7 Varonil",
-          "descripcion": "Torneo de fútbol 7 categoría varonil. Categorías:",
-          "categorias": [
-            "Benjamín 6 a 7 años (2018 - 2019)",
-            "Infantil 8 a 9 años (2016 - 2017)",
-            "Pre Juvenil 10 a 11 años (2014 - 2015)",
-            "Libre y Juvenil 12 años en adelante (2013 y mayores)",
-            "Leyendas 40 años en adelante (1985 y mayores)" 
-          ], 
+          "descripcion": "Torneo de fútbol 7 categoría varonil. Categorías: Benjamín 6 a 7 años, Infantil 8 a 9 años, Pre Juvenil 10 a 11 años, Libre y Juvenil 12 años en adelante, Leyendas 40 años en adelante",
           "horario": "Desde las 8:00 AM",
           "inscripcion": "Inscripción via forms",
           "url": "https://forms.gle/iypPHPCNRyZRxco46"
