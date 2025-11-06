@@ -10,14 +10,21 @@
         {
           "nombre": "JuanMa Ayala",
           "descripcion": "Su misión es dar testimonio mediante la música",
-          "horario": "pendiente",
+          "horario": "11:30",
           "imagen": "/Juanma.jpeg"
         },
+      
         {
-          "nombre": "Schoenstatt Música",
-          "descripcion": "Alabanzas a Cristo",
-          "horario": "pendiente",
-          "imagen": "/Schoenstatt_Logo.svg.png"
+          "nombre": "Coro Ignis",
+          "descripcion": "Lo más bonito es poder adorar a Dios desde nuestra juventud",
+          "horario": "1:00 pm",
+          "imagen": "/Ignis.jpeg"
+        },
+        {
+          "nombre": "Jésed Ministerio de Música",
+          "descripcion": "Nos acompañan a adorar al Señor, en una Hora Santa",
+          "horario": "5:00 pm",
+          "imagen": "/Jésed.jpeg"
         }
       ]
     },
@@ -27,15 +34,15 @@
       "tournaments": [
         {
           "deporte": "Fut 7 Varonil",
-          "descripcion": "Torneo de fútbol 7 categoría varonil. Categorías: Benjamín 6 a 7 años, Infantil 8 a 9 años, Pre Juvenil 10 a 11 años, Libre y Juvenil 12 años en adelante, Leyendas 40 años en adelante",
-          "horario": "Desde las 8:00 AM",
+          "descripcion": "Torneo de fútbol 7 categoría varonil. Categorías: Libre y Juvenil 12 años en adelante,Leyendas 40 años en adelante y Campeón de Campeones para movimentos católicos",
+          "horario": "Desde las 8:30 AM",
           "inscripcion": "Inscripción via forms",
           "url": "https://forms.gle/iypPHPCNRyZRxco46"
         },
         {
-          "deporte": "Voleibol femenil",
+          "deporte": "Voleibol Femenil",
           "descripcion": "Competencia de voleibol categoría femenil",
-          "horario": "Desde las 8:00 AM",
+          "horario": "Desde las 8:30 AM",
           "inscripcion": "Equipos femeniles bienvenidos",
           "url": "https://forms.gle/cqnwgNTiStVJAa55A"
         }
@@ -53,7 +60,7 @@
         "Mercadito",
         "Talleres Creativos (costo extra)"
       ],
-      "schedule": "Todo el día: 08:00 AM - 08:00 PM"
+      "schedule": "10:00 AM - 06:00 PM"
     },
     "grillTournament": {
       "title": "Torneo de Parrilleros",
@@ -62,10 +69,11 @@
       "cardDescription": "Competencia culinaria con los mejores asadores de la comunidad",
       "details": [
         "Inscripción: $3,500 por equipo",
-        "Premios",
+        "Premio 1 Lugar General: -100k de puntos doters viva aerobús, -Asador (barril) marca: Grills El Barril tamaño: 30 lbs, -5 kits parrillero SMP",
+        "Premios para gandores de categorías",
         "Jurado especializado"
       ],
-      "schedule": "por confirmar",
+      "schedule": "8:00 AM - 6:30 PM",
       "buttonText": "Inscribir Equipo",
       "buttonUrl": "https://forms.gle/AT6YG37RZ3x6qxN56"
     },
@@ -76,28 +84,29 @@
         {
           "titulo": "Misa",
           "descripcion": "Misa de precepto",
-          "horario": "7:00 PM",
+          "horario": "6:00 PM",
           "icono": "Church",
           "imagen": "/Misa.jpeg"
         },
         {
           "titulo": "Adoración Eucarística",
           "descripcion": "Momento de oración y contemplación en compañia de Grupos Musicales Católicos",
-          "horario": " A partir de las 10:00 AM",
+          "horario": " A partir de las 11:30 AM",
           "icono": "Heart",
           "imagen": "/adoracion copy.JPG"
         },
         {
           "titulo": "Actividades para Niños",
           "descripcion": "Actividades y juegos espirituales",
-          "horario": "A partir de las 10:00 AM",
+          "horario": "A partir de las 9:30 AM",
           "icono": "Baby",
           "imagen": "/campa.jpeg"
         },
         {
           "titulo": "Confesiones",
           "descripcion": "Sacramento de la reconciliación disponible en diferentes horarios",
-          "horario": "Horarios por confirmar",
+          "horario": "11:30 AM, 1:30 PM y 3:30 PM",
+          "lugar": "Capilla",
           "icono": "Star",
           "imagen": "/confesiones.jpg"
         }

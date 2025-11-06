@@ -3,28 +3,23 @@
   "titleColor": "#004eb4",
   "backgroundImage": "url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3-sfPKWdd0OFc7XyZcHbnJJfy68n1pJb.png')",
   "workshops": [
+    
     {
-      "nombre": "Taller de Oración Familiar",
-      "facilitador": "Hna. Teresa López",
-      "horario": "10:00 AM - 11:30 AM",
-      "lugar": "Capilla San José",
-      "descripcion": "Aprende técnicas de oración en familia y fortalece los lazos espirituales",
-      "imagen": "/family-prayer-workshop.jpg",
-      "url": null
+      "nombre": "Más allá del dolor, una luz de esperanza",
+      "facilitador": "Juany Assad",
+      "horario": "2:00 PM",
+      "lugar": "Salón Multiusos",
+      "descripcion": "El taller habla de cómo podemos superar el dolor transformándolo en amor, aceptando nuestra nueva realidad para darle un  sentido a nuestra vida y así disfrutar a los que tenemos a nuestro lado.",
+      "imagen": "/Juany.jpeg"
     },
     {
-      "nombre": "Taller de Música Litúrgica",
-      "facilitador": "Mtro. Juan Carlos Vega",
-      "horario": "3:00 PM - 4:30 PM",
-      "lugar": "Sala de Música",
-      "descripcion": "Descubre cómo la música puede elevar tu experiencia de fe",
-      "imagen": "/liturgical-music-workshop.jpg"
+      "nombre": "¿Cómo cumplir mis metas y no morir en el intento?",
+      "facilitador": "Madeleyne Bernal",
+      "horario": "3:30 PM",
+      "lugar": "Salón Multiusos",
+      "descripcion": "Todos podemos cumplir nuestras metas, hay que tener esperanza en nosotros mismos",
+      "imagen": "/Made.jpeg"
+   
     }
-  ],
-  "buttonText": "Inscribirse al Taller",
-  "buttonStyle": {
-    "backgroundColor": "#ffd336",
-    "borderColor": "#ffd336",
-    "color": "#004eb4"
-  }
+  ]
 }
